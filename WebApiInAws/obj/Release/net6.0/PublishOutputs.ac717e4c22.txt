@@ -1,0 +1,11 @@
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\WebApiInAws.exe
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\appsettings.json
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\WebApiInAws.dll
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\WebApiInAws.deps.json
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\WebApiInAws.runtimeconfig.json
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\WebApiInAws.pdb
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hemakumar.reddy\OneDrive - Happiest Minds Technologies Limited\Desktop\WebApiInAws\WebApiInAws\WebApiInAws\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
